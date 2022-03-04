@@ -1,5 +1,3 @@
-// Noah Gonzales, Steven Nava, Donaven Smith
-
 #include <iostream>
 #include <fstream>
 #include <string>
